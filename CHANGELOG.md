@@ -20,6 +20,11 @@
 
   ([PR #N](https://github.com/alphagov/govuk-frontend/pull/N))
 
+- Prefix error messages with a visually hidden "Error:", to make it clearer to
+  users of assistive technologies
+
+  ([PR #1221](https://github.com/alphagov/govuk-frontend/pull/1221))
+
 🔧 Fixes:
 
 - Pull Request Title goes here
